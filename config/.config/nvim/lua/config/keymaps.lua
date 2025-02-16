@@ -37,7 +37,4 @@ vim.keymap.set("n", "<leader>j", ":wincmd j<CR>", { silent = true })
 vim.keymap.set("n", "<leader>k", ":wincmd k<CR>", { silent = true })
 vim.keymap.set("n", "<leader>l", ":wincmd l<CR>", { silent = true })
 
--- TODO: review which is the sorround mapping in lazyvim
-vim.keymap.set("n", "S", "ys", { silent = true })
-
 vim.keymap.set("n", "<esc>", "<Nop>", { silent = true })

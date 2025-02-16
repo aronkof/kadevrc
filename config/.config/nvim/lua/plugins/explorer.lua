@@ -7,5 +7,8 @@ return {
     keys = {
       { "<C-e>", function() Snacks.explorer() end, desc = "File Explorer" },
     },
+    config = function ()
+      Snacks.explorer()
+    end,
   },
 }
