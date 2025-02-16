@@ -2,19 +2,18 @@ call plug#begin('~/.vim/plugged')
   " aesthetics
   Plug 'catppuccin/nvim', { 'as': 'catppuccin' }
   Plug 'itchyny/lightline.vim'
-  Plug 'folke/noice.nvim'
-  Plug 'MunifTanjim/nui.nvim'
-  Plug 'rcarriga/nvim-notify'
-  " javascript
-  Plug 'HerringtonDarkholme/yats.vim'
-  Plug 'pangloss/vim-javascript'
-  " focus
-  Plug 'junegunn/goyo.vim'
+
+  " Plug 'folke/noice.nvim'
+  " Plug 'MunifTanjim/nui.nvim'
+  " Plug 'rcarriga/nvim-notify'
+
   " git support 
   Plug 'tpope/vim-fugitive'
+
   " edit helper tools
   Plug 'tpope/vim-surround'
   Plug 'tpope/vim-commentary'
+
   " lsp
   Plug 'neovim/nvim-lspconfig'
   Plug 'hrsh7th/cmp-nvim-lsp'
@@ -26,26 +25,26 @@ call plug#begin('~/.vim/plugged')
   Plug 'saadparwaiz1/cmp_luasnip'
   Plug 'WhoIsSethDaniel/toggle-lsp-diagnostics.nvim'
   Plug 'williamboman/nvim-lsp-installer'
+
   " go support
   Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
-  " java/kt support
-  Plug 'mfussenegger/nvim-jdtls'
-  Plug 'williamboman/mason.nvim'
+
   " interactive file tree navigation
   Plug 'preservim/nerdtree'
+
   " much better than marks
   Plug 'nvim-lua/plenary.nvim'
   Plug 'ThePrimeagen/harpoon'
+
   " telescope
   Plug 'nvim-telescope/telescope.nvim'
+
   " treesitter
-  Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
-  " markdown
-  " Plug 'godlygeek/tabular'
-  " Plug 'preservim/vim-markdown'
-  " Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && npx --yes yarn install' }
+  " Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+
   " obsidian
   Plug 'epwalsh/obsidian.nvim'
+
 call plug#end()
 
 lua require('aronkof/init')
@@ -83,10 +82,6 @@ nnoremap <leader>h :wincmd h<CR>
 nnoremap <leader>j :wincmd j<CR>
 nnoremap <leader>k :wincmd k<CR>
 nnoremap <leader>l :wincmd l<CR>
-
-" focus
-nnoremap <leader>= :Goyo 80%+10%x100%<CR>
-nnoremap <leader>- :Goyo!<CR>
 
 " surround remap
 nmap S ys
@@ -201,20 +196,8 @@ vnoremap C "xC
 nnoremap <A-j> :m .+1<CR>==
 nnoremap <A-k> :m .-2<CR>==
 
-" temp scratch pad markdown
-nnoremap <leader>T :split /tmp/scratchpad.md <bar> resize 15<CR>
-
 " Go
 let g:go_textobj_enabled=0
-nnoremap <leader>e :!go run /tmp/main.go<CR>
-nnoremap <leader>t :e /tmp/main.go<CR>
-
-
-" Markdown setup
-autocmd FileType markdown set conceallevel=2
-autocmd FileType markdown normal zR
-let g:markdown_recommended_style = 0
-let g:markdown_folding = 1
 
 " gq settings
 set textwidth=120
@@ -222,10 +205,6 @@ set formatoptions-=t
 
 " interacitve shell sessions - to enable userspace aliases and functions
 set shellcmdflag=-c
-
-let g:goyo_linenr = 1 
-let g:goyo_width = 120
-let g:goyo_height = 100
 
 " telescope
 nnoremap <leader>ff <cmd>Telescope find_files<cr>
