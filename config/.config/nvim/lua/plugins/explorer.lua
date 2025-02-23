@@ -5,10 +5,7 @@ return {
       indent = { enabled = false },
     },
     keys = {
-      { "<C-e>", function() Snacks.explorer() end, desc = "File Explorer" },
+      { "<C-e>", function() Snacks.explorer() end, desc = "Toggle file explorer" },
     },
-    config = function ()
-      Snacks.explorer()
-    end,
   },
 }

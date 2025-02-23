@@ -21,3 +21,6 @@ export KAUTH_KEY="XVjLXJrl_FkkN-QqixsOGINniuhUDUI4"
 export KAUTH_PW="e2p4nUnWKujcuZYGPcwCwAfNRwupMBo/GHUUeok="
 export IFD_USER="aron.koffler"
 export IFD_EMAIL="aron.koffler@ifood.com.br"
+
+export EDITOR='nvim'
+export VISUAL='nvim'

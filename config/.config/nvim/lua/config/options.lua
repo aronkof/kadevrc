@@ -54,3 +54,5 @@ vim.opt.listchars = {
   trail = " ",
   nbsp = "+",
 }
+
+vim.opt.formatoptions:remove({'r', 'o' })

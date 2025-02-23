@@ -275,7 +275,7 @@ set_from_resource $term_color15    color15
 bar {
   tray_padding 1
 	i3bar_command i3bar
-	status_command i3status
+	status_command kadev-status
 	position bottom
 	tray_output primary
 
