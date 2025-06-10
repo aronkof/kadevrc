@@ -1,14 +1,9 @@
 #!/usr/bin/env bash
 ### LOAD MODULES ###
-source ~/kadevrc/modules/path
-source ~/kadevrc/modules/requester_token
-source ~/kadevrc/modules/audio
 source ~/kadevrc/modules/bashcommands
-source ~/kadevrc/modules/git
 source ~/kadevrc/modules/docker
-source ~/kadevrc/modules/keyboard
-source ~/kadevrc/modules/vimcommands
+source ~/kadevrc/modules/git
+source ~/kadevrc/modules/path
 source ~/kadevrc/modules/tmux
-source ~/kadevrc/modules/psql
-source ~/kadevrc/modules/pomo
+source ~/kadevrc/modules/vimcommands
 tabs 2

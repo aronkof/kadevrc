@@ -6,7 +6,7 @@ vim.api.nvim_create_autocmd({ "FileType" }, {
 })
 
 vim.api.nvim_create_autocmd({ "FileType" }, {
-  pattern = { "md", "markdown" },
+  pattern = { "md", "markdown", "text" },
   callback = function()
     vim.opt.spell = false
   end,

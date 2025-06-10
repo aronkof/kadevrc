@@ -11,16 +11,7 @@ export PATH="$HOME/.local/share/kotlin_lsp/bin:$PATH"
 export PATH="$HOME/.local/share/nvim/lsp_servers/jdtls/bin:$PATH"
 export PATH="$HOME/.cargo/bin:$PATH"
 
-# export JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64"
 export JAVA_HOME="/usr/lib/jvm/java-17-openjdk-amd64"
-
-export PSQL_EDITOR=/usr/bin/nvim
-
-# kauth -- kadev auth
-export KAUTH_KEY="XVjLXJrl_FkkN-QqixsOGINniuhUDUI4"
-export KAUTH_PW="e2p4nUnWKujcuZYGPcwCwAfNRwupMBo/GHUUeok="
-export IFD_USER="aron.koffler"
-export IFD_EMAIL="aron.koffler@ifood.com.br"
-
+export PSQL_EDITOR=$(which nvim)
 export EDITOR='nvim'
 export VISUAL='nvim'

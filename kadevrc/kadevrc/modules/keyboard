@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-# --- LAPTOP UNIX KEYBOARD REMAP --- #
-# --- similar experience with 60% keyboards --- #
-alias kmap='setxkbmap -layout us && xmodmap ~/kadevrc/keyboard-mappers/nuphy.Xmodmap'
-alias logi-kmap='setxkbmap -layout us && xmodmap ~/kadevrc/keyboard-mappers/logi.Xmodmap'

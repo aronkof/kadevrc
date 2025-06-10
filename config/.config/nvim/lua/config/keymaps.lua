@@ -21,7 +21,6 @@ vim.keymap.set("n", "<A-k>", ":m .-2<CR>==", { silent = true })
 -- custom movement
 vim.keymap.set("n", "<M-s>", "<Nop>", { silent = true })
 vim.keymap.set("n", "-", "zz", { silent = true })
-vim.keymap.set("n", "<leader><leader>", "zz", { silent = true })
 vim.keymap.set("n", "{", "{k", { silent = true })
 vim.keymap.set("n", "}", "}j", { silent = true })
 vim.keymap.set("n", "<M-[>", "[{", { silent = true })

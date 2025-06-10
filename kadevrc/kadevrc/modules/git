@@ -1,16 +1,22 @@
 #!/usr/bin/env bash
 # --- GIT SETUP / PROJECT SHORTCUTS ---- #
-parse_branch() {
-    git branch 2>/dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
+function parse_git_branch() {
+  git branch 2>/dev/null | sed -n -e 's/^\* \(.*\)/[\1]/p'
 }
 
-parse_branch_raw() {
-    git branch 2>/dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/'
+function parse_branch_raw() {
+  git branch 2>/dev/null | sed -n -e 's/^\* \(.*\)/\1/p'
 }
+
+COLOR_DEF=$'%f'
+COLOR_DIR=$'%F{#ef9f76}'
+COLOR_GIT=$'%F{#a6d189}'
+setopt PROMPT_SUBST
+export PROMPT='${COLOR_DIR}%~ ${COLOR_GIT}$(parse_git_branch)${COLOR_DEF} $ '
 
 # this is very important to enable commit signing using GPG keys
 export GPG_TTY=$(tty)
-export PS1='\[\033[01;32m\]\W\[\033[00m\]$(parse_branch) $ '
+# export PS1='\[\033[01;32m\]\W\[\033[00m\]$(parse_branch) $ '
 
 alias b='git branch'
 alias s='git status'
@@ -25,16 +31,13 @@ alias commit='git commit -v'
 alias gresign="git rebase --exec 'git commit --amend --no-edit -n -S' -i"
 
 pull() {
-    if [ -z "$1" ]; then
-        echo Pulling from active branch ["$(parse_branch_raw)"]
-        git pull origin "$(parse_branch_raw)"
-    else
-        echo Pulling from "$1"
-        git pull origin "$1"
-    fi
+  if [ -z "$1" ]; then
+    git pull origin "$(parse_branch_raw)"
+  else
+    git pull origin "$1"
+  fi
 }
 
 push() {
-    echo Pushing to active branch ["$(parse_branch_raw)"]
-    git push origin "$(parse_branch_raw)"
+  git push origin $(parse_branch_raw)
 }

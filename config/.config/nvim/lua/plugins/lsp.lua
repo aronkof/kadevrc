@@ -3,6 +3,7 @@ return {
   opts = {
     ensure_installed = {
       "gopls",
+      "ts_ls",
     },
   },
   {

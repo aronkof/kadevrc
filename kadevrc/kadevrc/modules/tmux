@@ -3,25 +3,10 @@ if [[ $TERM == xterm ]]; then TERM=xterm-256color; fi
 
 DEFAULT_SESSION_NAME=kadev
 
-alias tmuxcfg='vim ~/.tmux.conf'
 alias tmux-rw='tmux rename-window'
 alias rw='tmux-rw'
-alias tmux-ns="tmux new-session -ds $DEFAULT_SESSION_NAME &&\
-  sleep 1 && tmux send-keys -t $DEFAULT_SESSION_NAME:1 tmux-work-setup C-m &&\
-  tmux a"
 
-alias tmux-k='tmux kill-server'
 alias rtmux='tmux source-file ~/.tmux.conf'
-alias tmux-work-setup='tmux-rw proj:1 &&\
-  tmux-w proj:2 &&\
-  tmux-w databases &&\
-  tmux-w cli &&\
-  tmux-w obsidian &&\
-  clear &&\
-  tmux select-window -t 1'
-
-alias tmux-split='tmux split-window'
-alias tmux-splitv='tmux split-window -h'
 
 function tmux-w() {
   if [ ! -z "$1" ]; then
@@ -38,6 +23,19 @@ function tmux-w() {
   fi
 }
 
+alias tmux-work-setup='tmux-rw proj:1 &&\
+  tmux-w proj:2 &&\
+  tmux-w databases &&\
+  tmux-w cli &&\
+  clear &&\
+  tmux select-window -t 1'
+
+alias tmux-ns="tmux new-session -ds $DEFAULT_SESSION_NAME &&\
+  sleep 1 && tmux send-keys -t $DEFAULT_SESSION_NAME:1 tmux-work-setup C-m &&\
+  tmux a"
+
+alias tmux-k='tmux kill-server'
+
 function tmux-cmd() {
   tmux send-keys -t "$DEFAULT_SESSION_NAME:$1" "$2" "C-m"
 }
@@ -45,6 +43,3 @@ function tmux-cmd() {
 function tmux-sigterm() {
   tmux send-keys -t "$DEFAULT_SESSION_NAME:$1" "C-c"
 }
-
-# RD Client limitation aliases
-alias win='tmux select-window -t'

@@ -1,0 +1,32 @@
+theme = tokyonight
+
+shell-integration-features = no-cursor
+cursor-style-blink=false
+cursor-style=block
+
+background-opacity = 0.8
+background-blur-radius = 20
+macos-titlebar-style = native
+
+font-thicken = true
+mouse-hide-while-typing = true
+macos-non-native-fullscreen = visible-menu
+macos-titlebar-style = hidden
+
+macos-option-as-alt = left
+keybind = alt+left=unbind
+keybind = alt+right=unbind
+
+window-decoration = auto
+window-padding-x = 100
+window-padding-color = background
+window-padding-balance = true
+window-save-state = always
+
+font-family="ZedMono NFM light"
+
+keybind = ctrl+1=unbind
+keybind = ctrl+2=unbind
+keybind = ctrl+3=unbind
+keybind = ctrl+4=unbind
+keybind = ctrl+5=unbind

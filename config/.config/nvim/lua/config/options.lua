@@ -14,7 +14,6 @@ vim.opt.smartcase = true
 vim.cmd("filetype plugin on")
 vim.opt.compatible = false
 vim.opt.encoding = "utf-8"
-vim.opt.wrap = false
 vim.opt.formatoptions:remove("t")
 vim.opt.errorbells = false
 vim.opt.smartindent = true
@@ -42,7 +41,10 @@ vim.opt.guicursor = ""
 vim.opt.fillchars = "fold: ,vert:│,eob: ,msgsep:‾"
 vim.opt.clipboard = "unnamedplus"
 
-vim.opt.textwidth = 120
+vim.opt.wrap = true
+vim.opt.textwidth = 0
+vim.opt.wrapmargin = 50
+vim.opt.linebreak = false
 vim.opt.formatoptions:remove("t")
 vim.opt.shellcmdflag = "-c"
 
@@ -54,5 +56,3 @@ vim.opt.listchars = {
   trail = " ",
   nbsp = "+",
 }
-
-vim.opt.formatoptions:remove({'r', 'o' })
