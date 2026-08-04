@@ -13,21 +13,10 @@ if &shortmess =~ 'A'
 else
   set shortmess=aoO
 endif
-badd +7 ~/.ssh/melisource_config
-badd +1 ~/.ssh/known_hosts
-badd +3 ~/.ssh/id_ed25519
-badd +1 ~/.ssh/id_ed25519.pub
-badd +1 ~/.ssh/aron_meli
-badd +1 ~/.ssh/aron_meli.pub
-badd +3 ~/.ssh/config
+badd +12 ~/.ssh/config
 argglobal
 %argdel
 edit ~/.ssh/config
-let s:save_splitbelow = &splitbelow
-let s:save_splitright = &splitright
-set splitbelow splitright
-let &splitbelow = s:save_splitbelow
-let &splitright = s:save_splitright
 wincmd t
 let s:save_winminheight = &winminheight
 let s:save_winminwidth = &winminwidth
@@ -36,7 +25,6 @@ set winheight=1
 set winminwidth=0
 set winwidth=1
 argglobal
-balt ~/.ssh/aron_meli.pub
 setlocal foldmethod=manual
 setlocal foldexpr=0
 setlocal foldmarker={{{,}}}
@@ -47,12 +35,12 @@ setlocal foldnestmax=20
 setlocal nofoldenable
 silent! normal! zE
 let &fdl = &fdl
-let s:l = 3 - ((2 * winheight(0) + 18) / 36)
+let s:l = 12 - ((11 * winheight(0) + 20) / 41)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 3
-normal! 09|
+keepjumps 12
+normal! 015|
 tabnext 1
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0 && getbufvar(s:wipebuf, '&buftype') isnot# 'terminal'
   silent exe 'bwipe ' . s:wipebuf
