@@ -1,11 +1,5 @@
 #!/usr/bin/env bash
 
-if ! [ -x /usr/bin/stow ]; then
-  echo "error: stow is not installed" 
-  echo "to fix this, run: sudo apt install stow"
-  exit 1
-fi
-
 echo "installing kadev dotfiles..."
 
 stow -vt $HOME tmux

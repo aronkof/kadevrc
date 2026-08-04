@@ -1,0 +1,19 @@
+if status is-interactive
+    # Commands to run in interactive sessions can go here
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Added by git-ai installer on Wed Jul 29 11:57:07 -03 2026
+fish_add_path -g "/Users/akoffler/.git-ai/bin"

@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+
+repos() {
+  TARGET_PATH="$HOME/projects/meli/"
+
+  choice=$(gum filter $(/bin/ls ${TARGET_PATH}))
+  if [[ -z "$choice" ]]; then
+    return 0
+  fi
+
+  cd "$TARGET_PATH/$choice"
+}
+
+archived-repos() {
+  TARGET_PATH="$HOME/projects/meli/archived"
+
+  choice=$(gum filter $(/bin/ls ${TARGET_PATH}))
+  if [[ -z "$choice" ]]; then
+    return 0
+  fi
+
+  cd "$TARGET_PATH/$choice"
+}
+
+gb() {
+  choice=$(gum filter $(git branch --format '%(refname:short)'))
+  if [[ -z "$choice" ]]; then
+    return 0
+  fi
+
+  cout $choice
+}

@@ -1,0 +1,15 @@
+2026-07-20 13:29:49,958 DEBUG    root            Failed to check metadata server: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2026-07-20 13:29:49,964 DEBUG    root            Loaded Command Group: ['gcloud', 'components']
+2026-07-20 13:29:49,967 DEBUG    root            Loaded Command Group: ['gcloud', 'components', 'install']
+2026-07-20 13:29:49,968 DEBUG    root            Running [gcloud.components.install] with arguments: [--compile-python: "True", --quiet: "True", COMPONENT-IDS:5: "['gsutil', 'bundled-python3-unix', 'core', 'bq', 'gcloud-crc32c']"]
+2026-07-20 13:29:49,971 DEBUG    root            On GCE from memory cache: False
+2026-07-20 13:29:49,972 DEBUG    root            On GCE from memory cache: False
+2026-07-20 13:29:49,980 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2026-07-20 13:29:50,120 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components-v576.0.0.json HTTP/1.1" 200 28397
+2026-07-20 13:29:50,190 INFO     ___FILE_ONLY___ 
+
+2026-07-20 13:29:50,190 INFO     ___FILE_ONLY___ All components are up to date.
+
+2026-07-20 13:29:50,191 DEBUG    root            Updating notification cache...
+2026-07-20 13:29:50,193 DEBUG    root            Chosen display Format:none
+2026-07-20 13:29:50,193 INFO     root            Display format: "none"

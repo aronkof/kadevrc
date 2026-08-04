@@ -1,0 +1,1475 @@
+
+
+Mon Jul  7 01:42:22 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim(qall):E488: Trailing characters: 1: qa1
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:284: in function 'show'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:163: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:161>
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:284: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Mon Jul  7 18:29:02 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/zen.lua:200: Invalid window id: 1010
+stack traceback:
+	[C]: in function 'error'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:468: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:464>
+	[C]: in function 'nvim_exec_autocmds'
+	...local/share/nvim/lazy/nui.nvim/lua/nui/utils/autocmd.lua:376: in function 'exec'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:172: in function <...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:280: in function 'show'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Tue Jul  8 18:55:29 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim:E492: Not an editor command: DEFAULT
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Wed Jul  9 19:40:21 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim:E477: No ! allowed: Qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Wed Jul  9 19:48:32 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim:E477: No ! allowed: Qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Thu Jul 10 16:53:37 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim(qall):E481: No range allowed: '<,'>qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Fri Jul 18 12:31:45 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim:E477: No ! allowed: Qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Wed Jul 23 16:15:21 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim(qall):E488: Trailing characters: Q: qa!Q
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Thu Aug  7 11:48:14 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:181: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: Vim:E218: Autocommand nesting too deep
+stack traceback:
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+stack traceback:
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+stack traceback:
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+stack traceback:
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_set_buf'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:181: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/split/init.lua:257: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Thu Aug  7 11:48:14 2025
+...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*"..BufWinEnter Autocommands for "*": Vim(append):Error executing lua callback: ...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: Vim:E218: Autocommand nesting too deep
+stack traceback:
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+stack traceback:
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+stack traceback:
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:893: in function <...er/.local/share/nvim/lazy/snacks.nvim/lua/snacks/win.lua:847>
+	[C]: in function 'nvim_win_set_buf'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+stack traceback:
+	[C]: in function 'nvim_win_set_buf'
+	...er/.local/share/
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_win_call'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:171: in function '_open_window'
+	...r/.local/share/nvim/lazy/nui.nvim/lua/nui/popup/init.lua:251: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:107: in function 'mount'
+	....local/share/nvim/lazy/noice.nvim/lua/noice/view/nui.lua:94: in function 'create'
+	...
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	...local/share/nvim/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/init.lua:146: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Fri Aug  8 13:09:09 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim(qall):E488: Trailing characters: !: qa!!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Wed Sep 10 12:07:51 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim:E477: No ! allowed: Qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Wed Sep 17 17:17:02 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim:E477: No ! allowed: Qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Tue Sep 23 18:11:10 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim(qall):E488: Trailing characters: 1: qa1
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Tue Sep 23 18:21:37 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim:E477: No ! allowed: Qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Thu Oct 16 17:21:06 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim:E492: Not an editor command: qaa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Thu Oct 30 12:34:40 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim:E492: Not an editor command: HEADERS
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Fri Oct 31 02:42:36 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim(qall):E481: No range allowed: .,.+11qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Mon Nov  3 11:42:14 2025
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim(qall):E488: Trailing characters: 1: qa1
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Fri Jan  9 11:27:04 2026
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim(qall):E481: No range allowed: '<,'>qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Mon Feb  2 13:27:32 2026
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim:E492: Not an editor command: Lqa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:226>
+
+Mon Apr  6 13:31:19 2026
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim(qall):E488: Trailing characters: Q: qa!Q
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228>
+
+Tue Apr 21 18:23:46 2026
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim:E477: No ! allowed: Qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228>
+
+Sun Apr 26 22:35:58 2026
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim(quit):E488: Trailing characters: :qa!: q!:qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228>
+
+Mon May  4 10:00:48 2026
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim(qall):E488: Trailing characters: @: qa!@
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228>
+
+Mon May  4 12:14:48 2026
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim(qall):E481: No range allowed: .,.+3qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228>
+
+Thu May  7 10:21:34 2026
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim:E477: No ! allowed: Qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228>
+
+Fri May 29 10:41:26 2026
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim(qall):E488: Trailing characters: 1: qa1
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228>
+
+Thu Jul 30 18:00:49 2026
+vim/_editor.lua:0: nvim_exec2(), line 1: Vim:E477: No ! allowed: Qa!
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'nvim_exec2'
+	vim/_editor.lua: in function 'cmd'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:74: in function <.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:73>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:152: in function 'try'
+	.../share/nvim/lazy/noice.nvim/lua/noice/message/router.lua:89: in function 'redirect'
+	...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228: in function <...local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/ui.lua:228>

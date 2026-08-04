@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
+  exit 0
+fi
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+
+if [[ -x "$REPO_ROOT/.git/hooks/post-commit" ]]; then
+  "$REPO_ROOT/.git/hooks/post-commit"
+fi
+
+exit 0

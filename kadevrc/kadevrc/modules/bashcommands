@@ -18,7 +18,7 @@ alias kubecfg='vim ~/.kube/config'
 alias ghosttycfg='vim ~/.config/ghostty/config'
 alias tmuxcfg='vim ~/.tmux.conf'
 
-alias kadev-ssh='ssh -X aronkoffler@kadevremote.duckdns.org -p 3333'
-
 alias ytm4a='yt-dlp -f "bestaudio[ext=m4a]" -o "%(title)s.%(ext)s"'
 alias ytfull='yt-dlp -f "bv+ba/best" -o "%(title)s.%(ext)s"'
+
+alias home='cd ~ && zellij action rename-tab HOME'

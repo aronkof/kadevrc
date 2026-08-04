@@ -1,8 +1,12 @@
 return {
   {
-    "catppuccin/nvim",
+    "tokyonight.nvim",
     opts = {
-      transparent_background = true,
+      transparent = true,
+      styles = {
+          sidebars = "transparent",
+          floats = "transparent",
+      },
     },
   },
 }

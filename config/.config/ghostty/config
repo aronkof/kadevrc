@@ -1,32 +1,40 @@
+# VISUALS
 theme = tokyonight
-
-shell-integration-features = no-cursor
+shell-integration-features = no-cursor,no-title
 cursor-style-blink=false
 cursor-style=block
-
-background-opacity = 0.8
-background-blur-radius = 20
-macos-titlebar-style = native
-
-font-thicken = true
+# macos-titlebar-style = hidden
 mouse-hide-while-typing = true
 macos-non-native-fullscreen = visible-menu
-macos-titlebar-style = hidden
-
-macos-option-as-alt = left
-keybind = alt+left=unbind
-keybind = alt+right=unbind
-
-window-decoration = auto
-window-padding-x = 100
+window-padding-y = 15
+window-padding-x = 10
 window-padding-color = background
 window-padding-balance = true
 window-save-state = always
+window-title-font-family="IosevkaTermSlab NFM"
+font-family="IosevkaTermSlab NFM"
+unfocused-split-opacity=.20
 
-font-family="ZedMono NFM light"
+# KEYBOARD BEHAVIOR AND KEYBINDS
+macos-option-as-alt = left
+click-repeat-interval = 500
+mouse-hide-while-typing = true
 
+# ENABLE ZELLIJ/AEROSPACE BEHAVIOR
+keybind = alt+left=unbind
+keybind = alt+right=unbind
+
+keybind = ctrl+m=unbind
 keybind = ctrl+1=unbind
 keybind = ctrl+2=unbind
 keybind = ctrl+3=unbind
 keybind = ctrl+4=unbind
 keybind = ctrl+5=unbind
+
+# PANE MOVEMENT
+keybind = super+k=goto_split:up
+keybind = super+j=goto_split:down
+keybind = super+h=goto_split:left
+keybind = super+l=goto_split:right
+
+keybind = super+p=write_scrollback_file:open

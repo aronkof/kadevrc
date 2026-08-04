@@ -3,6 +3,7 @@
 source ~/kadevrc/modules/bashcommands
 source ~/kadevrc/modules/docker
 source ~/kadevrc/modules/git
+source ~/kadevrc/modules/gum
 source ~/kadevrc/modules/path
 source ~/kadevrc/modules/tmux
 source ~/kadevrc/modules/vimcommands

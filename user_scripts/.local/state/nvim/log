@@ -1,0 +1,429 @@
+ERR 2025-07-09T13:43:49.309 ui.10001   tui_stop:618: TUI already stopped (race?)
+ERR 2025-07-10T17:12:33.378 nvim.57835.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-08-12T09:05:49.996 ui.38286   tui_stop:618: TUI already stopped (race?)
+ERR 2025-08-24T16:38:46.925 ui.24806   tui_stop:618: TUI already stopped (race?)
+ERR 2025-09-09T14:00:19.782 nvim.22404.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-09-09T14:01:40.668 nvim.32966.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-09-25T15:44:14.441 nvim.38763.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-09-26T18:12:55.557 nvim.34616.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-09-26T18:13:50.298 nvim.42704.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-09-26T18:36:00.057 nvim.3169.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-09-26T18:36:57.549 nvim.11294.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-06T12:45:40.193 nvim.56367.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-07T18:28:21.517 nvim.23888.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-07T18:43:36.463 nvim.51594.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-07T18:47:31.310 nvim.87314.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-07T18:48:12.308 nvim.95491.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-07T18:50:27.747 nvim.15297.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-16T23:55:56.162 nvim.12995.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-16T23:57:01.242 nvim.22838.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-17T00:00:14.014 nvim.47920.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-17T15:57:00.172 nvim.2188.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T12:30:28.902 nvim.43692.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T12:33:23.908 nvim.67924.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T12:34:23.602 nvim.77574.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T12:36:02.390 nvim.91813.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T15:30:44.310 nvim.21546.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T15:32:41.337 nvim.42560.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T15:35:47.546 nvim.70240.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T15:42:44.758 nvim.23043.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T15:43:05.178 nvim.26662.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T15:53:16.244 nvim.2154.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T15:55:16.536 nvim.17751.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T16:15:50.429 nvim.92072.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T16:27:06.047 nvim.84018.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T16:28:41.116 nvim.98619.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T16:33:16.490 nvim.32849.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T16:39:51.373 nvim.80510.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T16:40:55.311 nvim.90163.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-10-30T16:44:35.315 nvim.19335.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T10:36:15.107 nvim.23173.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T11:30:10.756 nvim.63407.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T11:37:04.502 nvim.17325.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T11:37:55.353 nvim.26577.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T11:39:11.481 nvim.39110.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T11:42:22.013 nvim.65874.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T11:44:23.127 nvim.83895.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T11:48:34.363 nvim.16435.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T11:50:21.792 nvim.32691.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T11:51:22.150 nvim.43997.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T11:55:58.065 nvim.80280.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T11:57:43.903 nvim.96277.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T12:01:38.531 nvim.40041.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T12:07:32.304 nvim.88501.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T16:13:31.280 nvim.29795.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T16:14:27.636 nvim.39781.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T16:22:12.158 nvim.5280.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T16:23:03.509 nvim.18117.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T17:52:06.449 nvim.41220.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T17:54:26.208 nvim.65816.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T17:55:15.815 nvim.74779.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T17:56:26.419 nvim.90529.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T17:56:42.784 nvim.95025.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T17:57:47.871 nvim.10043.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-03T17:58:09.215 nvim.15641.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-04T12:48:05.492 nvim.82873.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2025-11-04T12:48:49.106 nvim.91548.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2026-03-17T16:15:07.522 nvim.74905.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2026-03-17T16:17:34.809 nvim.75481.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2026-03-19T11:12:23.410 ui.79678   tui_stop:618: TUI already stopped (race?)
+ERR 2026-04-13T14:31:17.833 nvim.3873.0 os_set_cloexec:500: Failed to get flags on descriptor 3: Bad file descriptor
+ERR 2026-04-21T16:18:13.073 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:18:13.229 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:18:13.233 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:18:13.407 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:18:13.410 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:18:13.496 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:19:48.038 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:20:07.434 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:20:07.517 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:20:07.520 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:20:07.682 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:20:07.685 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:20:07.755 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:20:07.757 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:20:09.394 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:20:09.398 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:20:10.255 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:20:10.260 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T16:20:10.548 nvim.92201.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T17:16:32.151 nvim.11019.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-04-21T17:16:32.761 nvim.11019.0 decor_provider_error:36: Error in decoration provider "line" (ns=blink_cmp_renderer):
+Error executing lua: ...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: Query error at 45:2. Invalid node type "operator":
+(operator) @operator
+ ^
+
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...m/0.11.2/share/nvim/runtime/lua/vim/treesitter/query.lua:373: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'fn'
+	...ovim/0.11.2/share/nvim/runtime/lua/vim/func/_memoize.lua:78: in function 'get'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:49: in function 'fn'
+	...2/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:650: in function 'for_each_tree'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:47: in function '_highlight'
+	...p/lua/blink/cmp/completion/windows/render/treesitter.lua:19: in function 'highlight'
+	.../lazy/blink.cmp/lua/blink/cmp/config/completion/menu.lua:109: in function 'highlight'
+	...k.cmp/lua/blink/cmp/completion/windows/render/column.lua:99: in function 'get_line_highlights'
+	...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:40: in function <...ink.cmp/lua/blink/cmp/completion/windows/render/init.lua:35>
+ERR 2026-07-22T14:46:47.802 ui.22287   tui_stop:618: TUI already stopped (race?)
+ERR 2026-07-30T14:26:18.189 ui.74304   tui_stop:618: TUI already stopped (race?)

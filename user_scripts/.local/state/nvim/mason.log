@@ -1,0 +1,497 @@
+[INFO  Sun Jun 15 19:34:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Jun 15 19:34:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  Sun Jun 15 19:34:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Sun Jun 15 19:34:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Sun Jun 15 19:34:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ktlint) {}
+[ERROR Sun Jun 15 19:34:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. go is not executable
+[INFO  Sun Jun 15 19:34:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gitui) {}
+[ERROR Sun Jun 15 19:34:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. go is not executable
+[INFO  Sun Jun 15 19:34:55 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[INFO  Sun Jun 15 19:34:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  Sun Jun 15 19:34:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gitui)
+[INFO  Sun Jun 15 19:34:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ktlint)
+[INFO  Sun Jun 15 22:54:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Sun Jun 15 22:54:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Sun Jun 15 22:54:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Sun Jun 15 22:54:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Sun Jun 15 22:54:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=kotlin-language-server) {}
+[ERROR Sun Jun 15 22:54:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. go is not executable
+[INFO  Sun Jun 15 22:54:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 15 22:54:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Sun Jun 15 22:54:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Sun Jun 15 22:54:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 15 22:54:25 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Sun Jun 15 22:54:26 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=kotlin-language-server)
+[INFO  Sun Jun 15 22:55:27 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Sun Jun 15 22:55:27 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Sun Jun 15 22:55:27 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[INFO  Sun Jun 15 22:55:27 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[ERROR Sun Jun 15 22:55:27 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Sun Jun 15 22:55:27 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Sun Jun 15 22:55:27 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sun Jun 15 22:55:27 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. go is not executable
+[INFO  Sun Jun 15 22:55:43 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Sun Jun 15 22:55:43 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Sun Jun 15 22:55:43 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Sun Jun 15 22:55:43 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 15 22:55:43 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Sun Jun 15 22:55:43 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Sun Jun 15 22:55:43 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Sun Jun 15 22:55:43 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. go is not executable
+[INFO  Sun Jun 15 22:59:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Sun Jun 15 22:59:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Sun Jun 15 22:59:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Sun Jun 15 22:59:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 15 22:59:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Sun Jun 15 22:59:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Sun Jun 15 22:59:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Sun Jun 15 22:59:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 16 15:28:13 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Mon Jun 16 15:28:13 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Mon Jun 16 15:28:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Mon Jun 16 15:28:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 16 15:28:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Mon Jun 16 15:28:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Mon Jun 16 15:28:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Mon Jun 16 15:28:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 16 15:28:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Mon Jun 16 15:28:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Mon Jun 16 15:28:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Mon Jun 16 15:28:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 16 15:28:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Mon Jun 16 15:28:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Mon Jun 16 15:28:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Mon Jun 16 15:28:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. go is not executable
+[INFO  Mon Jun 16 15:29:31 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Mon Jun 16 15:29:31 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Mon Jun 16 15:29:31 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Mon Jun 16 15:29:31 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 16 15:29:31 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Mon Jun 16 15:29:31 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Mon Jun 16 15:29:31 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Mon Jun 16 15:29:31 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jun 17 09:54:44 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Tue Jun 17 09:54:44 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Tue Jun 17 09:54:44 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Tue Jun 17 09:54:44 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jun 17 09:54:44 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Tue Jun 17 09:54:44 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Tue Jun 17 09:54:44 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Tue Jun 17 09:54:44 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jun 17 14:34:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Tue Jun 17 14:34:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Tue Jun 17 14:34:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Tue Jun 17 14:34:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jun 17 14:34:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Tue Jun 17 14:34:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Tue Jun 17 14:34:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Tue Jun 17 14:34:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jun 17 14:57:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Tue Jun 17 14:57:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Tue Jun 17 14:57:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[INFO  Tue Jun 17 14:57:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[ERROR Tue Jun 17 14:57:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=goimports) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Tue Jun 17 14:57:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gofumpt) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR Tue Jun 17 14:57:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Tue Jun 17 14:57:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. go is not executable
+[INFO  Tue Jun 17 15:15:49 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Tue Jun 17 15:15:49 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Tue Jun 17 15:15:49 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Tue Jun 17 15:15:49 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jun 17 15:15:49 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Tue Jun 17 15:15:53 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=goimports) error="Installation was aborted."
+[ERROR Tue Jun 17 15:15:53 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gofumpt) error="Installation was aborted."
+[ERROR Tue Jun 17 15:15:53 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gopls) error="Installation was aborted."
+[INFO  Tue Jun 17 15:22:03 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=goimports) {}
+[INFO  Tue Jun 17 15:22:03 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gofumpt) {}
+[INFO  Tue Jun 17 15:22:03 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Tue Jun 17 15:22:03 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jun 17 15:22:03 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jun 17 15:22:07 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gofumpt)
+[INFO  Tue Jun 17 15:22:07 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=goimports)
+[ERROR Tue Jun 17 15:22:21 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gopls) error="Installation was aborted."
+[INFO  Tue Jun 17 17:14:15 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  Tue Jun 17 17:14:15 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jun 17 17:14:15 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jun 17 17:14:22 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=gopls)
+[INFO  Wed Jun 18 10:02:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jun 18 10:02:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 20 16:45:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 20 16:45:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 22 22:51:10 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 22 22:51:10 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 23 09:41:42 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 23 09:41:42 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 23 10:01:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 23 10:01:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 23 10:33:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 23 10:33:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 23 11:39:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 23 11:39:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 23 13:23:04 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 23 13:23:04 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 23 14:00:25 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 23 14:00:25 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 23 14:07:03 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=bacon-ls) {}
+[ERROR Mon Jun 23 14:08:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=bacon-ls) error="Installation was aborted."
+[INFO  Mon Jun 23 15:23:13 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 23 15:23:13 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jun 25 12:12:24 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jun 25 12:12:24 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jun 25 13:53:38 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jun 25 13:53:38 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jun 25 14:07:08 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jun 25 14:07:08 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jun 25 14:07:34 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jun 25 14:07:35 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jun 25 14:08:01 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jun 25 14:08:01 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jun 25 14:09:13 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jun 25 14:09:13 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jun 25 14:16:35 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jun 25 14:16:35 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jun 25 14:18:34 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jun 25 14:18:34 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jun 25 14:31:31 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jun 25 14:31:31 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jun 25 15:25:41 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jun 25 15:25:41 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jun 25 17:01:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jun 25 17:01:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jun 25 17:42:22 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jun 25 17:42:22 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 14:48:28 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 14:48:28 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 14:51:20 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 14:51:20 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 15:13:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 15:13:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 15:15:10 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 15:15:10 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 15:17:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 15:17:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 15:18:10 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 15:18:10 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 15:25:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 15:25:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 15:27:59 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 15:27:59 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 15:31:17 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 15:31:18 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 15:34:01 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 15:34:01 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 17:04:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 17:04:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 17:11:30 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 17:11:30 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 17:56:33 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 17:56:33 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 20:37:31 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 20:37:31 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 20:38:16 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 20:38:16 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 20:39:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 20:39:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 21:11:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 21:11:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 21:12:03 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 21:12:03 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 21:14:45 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 21:14:45 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 21:20:19 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 21:20:19 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 21:36:55 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 21:36:55 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 21:54:37 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 21:54:37 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jun 26 22:21:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jun 26 22:21:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 27 11:50:15 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 27 11:50:15 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 27 11:57:20 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 27 11:57:20 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 27 15:00:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 27 15:00:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 27 15:00:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 27 15:00:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 27 15:05:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 27 15:05:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 27 15:05:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 27 15:05:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 27 15:19:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 27 15:19:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 27 15:22:49 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 27 15:22:49 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 27 15:25:34 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 27 15:25:34 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 27 15:51:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 27 15:51:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 27 19:02:44 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 27 19:02:45 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 27 19:02:47 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 27 19:02:47 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jun 27 19:05:08 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jun 27 19:05:08 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 14:25:48 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 14:25:48 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 15:02:47 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 15:02:47 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 15:03:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 15:03:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 15:04:04 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 15:04:04 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 15:04:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 15:04:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 15:18:12 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 15:18:13 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 15:19:44 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 15:19:44 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 15:25:33 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 15:25:33 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 16:00:59 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 16:00:59 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 16:02:37 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 16:02:37 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 18:11:41 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 18:11:42 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 18:14:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 18:14:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 22:17:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 22:17:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 22:28:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 22:28:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 22:59:58 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 22:59:58 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 23:01:52 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 23:01:52 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 23:04:35 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 23:04:35 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 23:10:39 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 23:10:39 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 23:24:55 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 23:24:55 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 23:25:25 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 23:25:25 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jun 29 23:25:38 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jun 29 23:25:38 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 09:17:13 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 09:17:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 09:17:20 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 09:17:20 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 09:28:19 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 09:28:20 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 09:30:08 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 09:30:08 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 14:10:12 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 14:10:12 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 14:10:59 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 14:10:59 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 15:11:18 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 15:11:18 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 15:14:07 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 15:14:07 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 15:18:00 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 15:18:00 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 16:00:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 16:00:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 16:42:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 16:42:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 16:47:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 16:47:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 16:47:16 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 16:47:16 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 16:48:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 16:48:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 16:51:39 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 16:51:39 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 17:02:27 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 17:02:27 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 17:15:19 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 17:15:19 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 17:28:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 17:28:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 17:33:22 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 17:33:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:00:41 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:00:41 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:01:04 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:01:04 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:03:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:03:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:07:15 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:07:15 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:18:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:18:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:18:41 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:18:42 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:18:58 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:18:58 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:19:19 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:19:19 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:19:30 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:19:30 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:19:36 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:19:36 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:19:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:19:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:19:44 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:19:44 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:19:47 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:19:47 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:19:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:19:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:21:18 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:21:18 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:22:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:22:46 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:25:16 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:25:16 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:25:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:25:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:26:53 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:26:53 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:26:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:26:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:27:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:27:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:28:34 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:28:34 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:29:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:29:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:30:03 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:30:03 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:30:20 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:30:20 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:32:35 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:32:35 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:32:48 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:32:48 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:35:13 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:35:13 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:35:24 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:35:24 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:36:10 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:36:10 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:36:19 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:36:19 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:37:15 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:37:15 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:37:26 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:37:26 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:37:36 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:37:36 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:37:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:37:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:37:43 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:37:43 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:37:47 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:37:47 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:37:49 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:37:49 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:37:52 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:37:52 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:37:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:37:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:38:25 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:38:25 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:38:32 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:38:32 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:39:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:39:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:39:47 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:39:47 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:39:58 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:39:58 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:43:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:43:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Mon Jun 30 18:43:27 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Mon Jun 30 18:43:27 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jul  1 12:52:25 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jul  1 12:52:25 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jul  1 15:12:53 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jul  1 15:12:53 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jul  1 16:07:03 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jul  1 16:07:04 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jul  1 17:08:29 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jul  1 17:08:29 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jul  1 19:58:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jul  1 19:58:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jul  1 20:01:35 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jul  1 20:01:35 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jul  1 20:03:39 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jul  1 20:03:39 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jul  1 20:07:16 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jul  1 20:07:16 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue Jul  1 20:09:29 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Tue Jul  1 20:09:29 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 10:32:21 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 10:32:21 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 10:32:43 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 10:32:43 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 10:33:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 10:33:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 10:34:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 10:34:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 10:36:17 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 10:36:17 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 11:57:17 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 11:57:17 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 14:40:34 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 14:40:34 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 14:41:39 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 14:41:39 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 14:42:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 14:42:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 15:21:52 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 15:21:52 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 16:29:53 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 16:29:53 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 16:31:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 16:31:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 16:48:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 16:48:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 17:11:28 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 17:11:28 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 17:13:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 17:13:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 17:17:58 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 17:17:58 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 17:52:18 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 17:52:18 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 18:12:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 18:12:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 18:16:01 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 18:16:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed Jul  2 18:42:17 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Wed Jul  2 18:42:17 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jul  3 17:56:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jul  3 17:56:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jul  3 17:57:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jul  3 17:57:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jul  3 19:54:04 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jul  3 19:54:04 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Thu Jul  3 19:55:19 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Thu Jul  3 19:55:19 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jul  4 11:13:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jul  4 11:13:07 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Fri Jul  4 15:13:37 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Fri Jul  4 15:13:37 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jul  6 16:49:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jul  6 16:49:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jul  6 16:50:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jul  6 16:50:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jul  6 20:24:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[ERROR Sun Jul  6 20:24:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vtsls) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sun Jul  6 20:40:07 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[INFO  Sun Jul  6 20:40:20 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=vtsls)
+[INFO  Fri Mar  6 12:10:25 2026] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=golangci-lint) {}
+[INFO  Fri Mar  6 12:10:28 2026] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=golangci-lint)
+[ERROR Thu Jul 30 12:01:00 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR Thu Jul 30 12:01:00 2026] .../share/nvim/lazy/mason.nvim/lua/mason-core/providers.lua:81: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code - and signal -. Could not find executable "wget" in PATH.
+
+[ERROR Thu Jul 30 12:01:00 2026] ...al/share/nvim/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR Thu Jul 30 12:01:00 2026] .../share/nvim/lazy/mason.nvim/lua/mason-core/providers.lua:81: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code - and signal -. Could not find executable "wget" in PATH.
+
+[ERROR Thu Jul 30 12:01:00 2026] .../share/nvim/lazy/mason.nvim/lua/mason-core/providers.lua:92: No provider implementation succeeded for github.get_latest_release
+[ERROR Thu Jul 30 12:01:00 2026] ...im/lazy/mason.nvim/lua/mason-registry/sources/github.lua:146: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to fetch latest registry version from GitHub API."
+[ERROR Thu Jul 30 12:01:00 2026] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:152: Failed to update registries. { "GitHubRegistrySource(repo=mason-org/mason-registry) failed to install: Failed to fetch latest registry version from GitHub API." }

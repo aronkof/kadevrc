@@ -1,0 +1,870 @@
+2025-06-30 16:04:43[ERROR] Formatter 'shfmt' error: /Users/akoffler/projects/meli/databases/connect.sh:7:5: while statement must end with "done"
+
+2025-06-30 16:21:33[ERROR] Formatter 'shfmt' error: /Users/akoffler/projects/meli/databases/connect.sh:10:1: "done" can only be used to end a loop
+
+2025-06-30 16:23:53[ERROR] Formatter 'shfmt' error: /Users/akoffler/projects/meli/databases/connect.sh:16:5: "done" can only be used to end a loop
+
+2025-06-30 16:24:06[ERROR] Formatter 'shfmt' error: /Users/akoffler/projects/meli/databases/connect.sh:15:1: "done" can only be used to end a loop
+
+2025-06-30 16:24:08[ERROR] Formatter 'shfmt' error: /Users/akoffler/projects/meli/databases/connect.sh:15:1: "done" can only be used to end a loop
+
+2025-07-02 10:26:56[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/docs/internal/adapters/http/<standard input>:13:7: expected '(', found helloHandler
+
+2025-07-02 11:06:47[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:12:10: expected operand, found ','
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:15:2: expected ';', found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:16:3: expected '}', found 'EOF'
+
+2025-07-02 11:29:44[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:24:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:28:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:29:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:30:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:32:2: expected operand, found 'var'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:35:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:36:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:37:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:39:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:40:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:44:2: missing ',' in argument list
+
+2025-07-02 11:33:41[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:38:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:42:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:43:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:44:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:46:2: expected operand, found 'var'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:49:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:50:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:51:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:53:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:54:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:58:2: missing ',' in argument list
+
+2025-07-02 14:14:23[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/cmd/api/<standard input>:15:52: expected ';', found ':'
+
+2025-07-02 18:15:35[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/kvs/<standard input>:19:39: missing ',' before newline in composite literal
+
+2025-07-03 18:24:27[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/collection/<standard input>:27:26: missing ',' in parameter list
+
+2025-07-03 18:38:47[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/collection/<standard input>:54:3: expected 1 expression
+
+2025-07-03 18:50:26[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/collection/<standard input>:68:50: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/collection/<standard input>:69:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/collection/<standard input>:70:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/collection/<standard input>:71:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/collection/<standard input>:73:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/collection/<standard input>:74:1: expected operand, found '}'
+
+2025-07-03 20:02:11[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/middlewares/<standard input>:12:72: expected '{', found newline
+
+2025-07-03 20:02:16[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/middlewares/<standard input>:12:4: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/middlewares/<standard input>:15:3: expected '{', found 'EOF'
+
+2025-07-04 11:32:12[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/cmd/api/<standard input>:26:29: missing ',' in argument list
+
+2025-07-04 11:44:56[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/collection/<standard input>:34:38: missing ',' before newline in argument list
+
+2025-07-04 15:09:10[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/middlewares/<standard input>:28:1: expected declaration, found '}'
+
+2025-07-04 15:36:50[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:12:10: expected operand, found '{'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:20:3: expected ';', found 'EOF'
+
+2025-07-04 16:18:26[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:60:25: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:61:2: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:63:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:64:1: expected operand, found '}'
+
+2025-07-04 16:44:49[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/middlewares/<standard input>:25:6: expected operand, found ':'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/middlewares/<standard input>:29:3: expected ':', found 'EOF'
+
+2025-07-04 17:09:41[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/foundation/<standard input>:7:50: expected ')', found 'EOF'
+
+2025-07-04 17:19:56[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/cmd/api/<standard input>:15:6: expected '(', found main
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/cmd/api/<standard input>:16:23: missing ',' in parameter list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/cmd/api/<standard input>:26:2: expected declaration, found os
+
+2025-07-04 18:08:00[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:65:2: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:66:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:67:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:69:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:70:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:72:51: missing ',' in argument list
+
+2025-07-05 20:41:32[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:65:2: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:66:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:67:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:69:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:70:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:74:3: missing ',' in argument list
+
+2025-07-05 20:42:34[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:65:2: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:66:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:67:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:69:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:70:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:74:3: missing ',' in argument list
+
+2025-07-05 21:03:19[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:85:2: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:87:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:88:1: expected operand, found '}'
+
+2025-07-05 21:14:00[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:97:9: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:102:2: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:103:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:104:3: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:106:14: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:107:2: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:108:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:109:3: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:111:4: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:115:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:116:3: expected '}', found 'EOF'
+
+2025-07-05 21:14:05[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:98:9: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:103:2: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:104:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:105:3: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:107:14: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:108:2: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:109:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:110:3: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:112:4: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:116:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:117:3: expected '}', found 'EOF'
+
+2025-07-06 17:01:01[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/collection/<standard input>:7:1: expected declaration, found '{'
+
+2025-07-06 17:34:11[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/collection/<standard input>:49:21: string literal not terminated
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/collection/<standard input>:50:2: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/collection/<standard input>:51:3: missing ',' in argument list
+
+2025-07-11 15:44:51[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:57:4: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:58:2: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:60:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:61:17: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:62:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:107:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:152:3: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:154:51: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:155:4: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:156:2: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:170:3: missing ',' in argument list
+
+2025-07-11 15:44:55[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:57:4: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:58:2: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:60:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:61:17: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:62:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:107:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:152:3: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:154:51: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:155:4: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:156:2: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:170:3: missing ',' in argument list
+
+2025-07-11 15:56:06[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:47:51: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:49:11: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:50:53: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:52:8: expected '==', found '='
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:54:9: expected '==', found '='
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:56:2: expected operand, found 'go'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:57:17: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:58:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:100:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:102:40: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/<standard input>:104:12: missing ',' in argument list
+
+2025-07-18 10:19:42[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/foundation/<standard input>:20:38: missing ',' in type argument list
+
+2025-07-20 21:14:19[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/client/<standard input>:38:3: expected operand, found ','
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/client/<standard input>:40:3: missing ',' in composite literal
+
+2025-07-20 21:14:24[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/client/<standard input>:36:3: expected operand, found ','
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/client/<standard input>:38:3: missing ',' in composite literal
+
+2025-07-20 21:14:25[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/client/<standard input>:36:3: expected operand, found ','
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/client/<standard input>:38:3: missing ',' in composite literal
+
+2025-07-20 21:14:32[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/client/<standard input>:36:3: expected operand, found ','
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/client/<standard input>:38:3: missing ',' in composite literal
+
+2025-07-20 21:14:44[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/client/<standard input>:37:4: missing ',' before newline in composite literal
+
+2025-07-29 12:20:07[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/pkg/datahub/<standard input>:39:1: expected 'IDENT', found 'func'
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/pkg/datahub/<standard input>:46:2: expected declaration, found 'if'
+
+2025-07-29 12:20:22[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/pkg/datahub/<standard input>:39:1: expected 'IDENT', found 'func'
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/pkg/datahub/<standard input>:44:2: expected declaration, found 'if'
+
+2025-07-30 17:23:51[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/adapters/outgoing/datahub/<standard input>:46:2: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/adapters/outgoing/datahub/<standard input>:51:2: expected ';', found 'if'
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/adapters/outgoing/datahub/<standard input>:64:6: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/adapters/outgoing/datahub/<standard input>:75:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/adapters/outgoing/datahub/<standard input>:76:3: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/adapters/outgoing/datahub/<standard input>:77:19: expected '==', found '='
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/adapters/outgoing/datahub/<standard input>:78:4: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/adapters/outgoing/datahub/<standard input>:79:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/adapters/outgoing/datahub/<standard input>:80:2: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/adapters/outgoing/datahub/<standard input>:81:8: expected '==', found '='
+/Users/akoffler/projects/meli/fury_cx-upstream-gateway-backend/internal/adapters/outgoing/datahub/<standard input>:82:3: missing ',' before newline in argument list
+
+2025-08-01 17:46:09[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/middlewares/<standard input>:11:66: expected ';', found '('
+/Users/akoffler/projects/meli/fury_onboarding-aron-v2/internal/adapters/http/middlewares/<standard input>:12:2: expected declaration, found 'return'
+
+2025-08-01 17:53:34[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:33:56: missing ',' in argument list
+
+2025-08-01 17:54:19[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:35:56: missing ',' in argument list
+
+2025-08-01 17:55:49[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:37:56: missing ',' in argument list
+
+2025-08-01 17:56:12[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:38:56: missing ',' in argument list
+
+2025-08-01 17:56:15[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:36:56: missing ',' in argument list
+
+2025-08-01 17:56:56[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:38:56: missing ',' in argument list
+
+2025-08-01 17:57:53[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:34:10: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:35:12: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:36:14: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:37:12: missing ',' in composite literal
+
+2025-08-01 17:59:04[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:34:10: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:35:12: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:36:14: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:37:12: missing ',' in composite literal
+
+2025-08-01 17:59:18[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:19:10: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:20:12: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:21:14: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:22:12: missing ',' in composite literal
+
+2025-08-01 17:59:41[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:19:36: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:20:40: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:21:62: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_cx-engineering-kb/vs-framework/v1/<standard input>:22:40: missing ',' before newline in composite literal
+
+2025-08-02 19:28:24[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/server/<standard input>:4:56: expected ';', found '{'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/server/<standard input>:9:1: expected '}', found 'type'
+
+2025-08-02 19:31:21[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/server/<standard input>:13:19: expected '(', found newline
+
+2025-08-02 19:45:39[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/mcp/<standard input>:30:32: expected operand, found ','
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/mcp/<standard input>:31:3: missing ',' in composite literal
+
+2025-08-02 19:53:38[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/mcp/<standard input>:4:21: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/mcp/<standard input>:5:3: missing ',' in argument list
+
+2025-08-02 19:53:48[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/mcp/<standard input>:4:21: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/mcp/<standard input>:5:3: missing ',' in argument list
+
+2025-08-02 19:58:49[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/mcp/<standard input>:8:50: missing parameter name
+
+2025-08-02 23:03:32[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/business/chub/<standard input>:12:9: expected '(', found newline
+
+2025-08-02 23:03:39[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/business/chub/<standard input>:12:9: expected '(', found newline
+
+2025-08-02 23:24:38[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/chub/<standard input>:15:53: missing parameter name
+
+2025-08-02 23:26:24[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/<standard input>:7:21: missing ',' before newline in parameter list
+
+2025-08-02 23:27:46[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/chub/<standard input>:14:40: expected ';', found '&'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/chub/<standard input>:15:2: expected declaration, found 'return'
+
+2025-08-02 23:36:07[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/cmd/http/<standard input>:37:6: expected ';', found ':='
+
+2025-08-02 23:55:06[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/mcp/chub/<standard input>:4:61: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/mcp/chub/<standard input>:5:3: missing ',' in argument list
+
+2025-08-03 21:28:58[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/config/<standard input>:17:3: expected '}', found 'EOF'
+
+2025-08-03 22:41:37[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/<standard input>:9:7: expected '(', found AddTool
+
+2025-08-03 22:55:24[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/<standard input>:17:28: missing ',' before newline in composite literal
+
+2025-08-03 22:55:31[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/<standard input>:17:50: missing ',' before newline in composite literal
+
+2025-08-03 23:11:46[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/<standard input>:39:38: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/<standard input>:40:3: missing ',' in argument list
+
+2025-08-04 01:49:33[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/chub/<standard input>:22:1: expected operand, found '}'
+
+2025-08-04 13:14:59[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:17:12: expected operand, found '...'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:20:4: expected ';', found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:35:3: expected '}', found 'EOF'
+
+2025-08-05 15:54:31[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/chub/<standard input>:37:86: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/chub/<standard input>:38:11: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/chub/<standard input>:40:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/chub/<standard input>:41:1: expected operand, found '}'
+
+2025-08-05 16:18:44[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/config/<standard input>:55:4: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/config/<standard input>:57:26: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/config/<standard input>:58:36: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/config/<standard input>:59:3: expected statement, found ')'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/config/<standard input>:220:3: expected '}', found 'EOF'
+
+2025-08-06 17:05:29[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-reputation-me-api/internal/usecases/<standard input>:84:88: expected statement, found ')'
+
+2025-08-09 15:22:07[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/<standard input>:14:13: missing ',' in parameter list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/<standard input>:14:16: missing parameter name
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/<standard input>:16:26: missing ',' in parameter list
+
+2025-08-09 15:22:09[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/<standard input>:14:13: missing ',' in parameter list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/<standard input>:14:16: missing parameter name
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/<standard input>:16:26: missing ',' in parameter list
+
+2025-08-09 16:04:36[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/middleware/<standard input>:25:1: expected declaration, found '}'
+
+2025-08-09 16:06:23[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/middleware/<standard input>:13:14: function type must have no type parameters
+
+2025-08-09 16:12:19[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/middleware/<standard input>:25:3: expected '}', found 'EOF'
+
+2025-08-09 16:29:26[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:36:1: expected operand, found ')'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:38:1: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:39:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:40:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:41:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:42:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:43:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:44:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:45:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:46:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:47:2: missing ',' before newline in composite literal
+
+2025-08-09 16:29:34[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:36:1: expected operand, found ')'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:38:1: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:39:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:40:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:41:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:42:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:43:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:44:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:45:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:46:15: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:47:2: missing ',' before newline in composite literal
+
+2025-08-09 16:35:19[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/get_channel_options/<standard input>:32:9: expected type, found newline
+
+2025-08-09 16:35:27[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/get_channel_options/<standard input>:31:9: expected type, found newline
+
+2025-08-09 16:44:48[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:9:22: expected type, found newline
+
+2025-08-09 16:44:51[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:9:22: expected type, found newline
+
+2025-08-09 16:45:25[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:12:2: expected operand, found 'EOF'
+
+2025-08-09 16:49:19[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/get_channel_options/<standard input>:33:54: missing ',' before newline in composite literal
+
+2025-08-09 16:50:29[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/get_channel_options/<standard input>:26:10: missing ',' before newline in composite literal
+
+2025-08-09 16:56:27[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/chub/tools/<standard input>:5:26: expected type, found newline
+
+2025-08-10 08:03:55[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/<standard input>:22:76: missing ',' in type argument list
+
+2025-08-10 08:05:11[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/<standard input>:24:76: missing ',' in type argument list
+
+2025-08-10 08:06:09[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/<standard input>:24:76: missing ',' in type argument list
+
+2025-08-10 09:17:09[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/<standard input>:7:2: string literal not terminated
+
+2025-08-10 09:40:34[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/<standard input>:39:1: expected selector or type assertion, found '}'
+
+2025-08-10 09:40:57[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp2/<standard input>:39:1: expected selector or type assertion, found '}'
+
+2025-08-10 12:07:29[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/aronkof/mcp-go/mcptest/<standard input>:347:86: missing parameter type
+
+2025-08-10 12:07:33[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/aronkof/mcp-go/mcptest/<standard input>:347:86: missing parameter type
+
+2025-08-13 11:22:46[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/chub/<standard input>:22:2: expected operand, found 'return'
+
+2025-08-13 11:22:48[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/chub/<standard input>:22:2: expected operand, found 'return'
+
+2025-08-14 22:44:26[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:160:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:175:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:185:3: expected declaration, found ')'
+
+2025-08-14 23:17:04[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:58:1: expected statement, found '<<'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:69:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:102:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:124:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:149:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:173:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:194:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:203:32: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:204:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:205:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:206:3: missing ',' before newline in argument list
+
+2025-08-14 23:17:13[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:57:1: expected statement, found '<<'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:68:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:101:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:123:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:148:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:172:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:193:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:202:32: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:203:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:204:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:205:3: missing ',' before newline in argument list
+
+2025-08-14 23:18:57[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:64:1: expected statement, found '<<'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:92:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:114:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:139:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:163:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:184:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:193:32: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:194:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:195:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:196:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:197:2: expected operand, found 'return'
+
+2025-08-14 23:20:36[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:76:4: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:77:3: expected operand, found 'var'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:78:3: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:79:46: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:80:4: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:81:3: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:82:56: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:83:3: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:84:3: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:85:62: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:86:3: expected operand, found '}'
+
+2025-08-14 23:21:32[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:87:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:109:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:134:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:158:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:179:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:188:32: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:189:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:190:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:191:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:192:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:193:1: expected operand, found '}'
+
+2025-08-14 23:32:39[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:84:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:106:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:131:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:155:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:176:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:185:32: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:186:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:187:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:188:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:189:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:190:1: expected operand, found '}'
+
+2025-08-14 23:45:33[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:94:1: expected statement, found '=='
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:102:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:127:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:151:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:172:1: expected statement, found '>>'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:181:32: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:182:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:183:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:184:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:185:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/cases/<standard input>:186:1: expected operand, found '}'
+
+2025-08-15 09:14:47[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:3:1: expected declaration, found 'package'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:5:1: imports must appear before other declarations
+
+2025-08-15 10:05:00[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/chub/<standard input>:18:2: expected '}', found 'case'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/chub/<standard input>:21:2: expected declaration, found err
+
+2025-08-15 10:38:38[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:47:1: expected declaration, found '}'
+
+2025-08-15 11:24:33[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/chub/<standard input>:19:66: missing ',' before newline in argument list
+
+2025-08-15 11:24:35[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/chub/<standard input>:19:66: missing ',' before newline in argument list
+
+2025-08-19 11:28:30[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/cmd/fury-catalog-converter/<standard input>:109:2: expected ';', found '/'
+
+2025-08-19 18:01:59[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:48:4: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:51:1: expected operand, found ')'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:53:1: expected ';', found 'type'
+
+2025-08-19 18:02:06[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:48:6: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:54:1: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:67:1: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:72:1: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:77:1: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:91:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:92:3: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:93:4: expected operand, found 'continue'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:108:2: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:114:2: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:115:2: missing ',' before newline in argument list
+
+2025-08-19 18:02:07[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:48:2: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:53:1: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:66:1: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:71:1: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:76:1: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:90:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:91:3: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:92:4: expected operand, found 'continue'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:107:2: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:113:2: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:114:2: missing ',' before newline in argument list
+
+2025-08-19 18:02:16[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:49:2: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:54:1: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:67:1: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:72:1: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:77:1: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:91:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:92:3: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:93:4: expected operand, found 'continue'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:108:2: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:114:2: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:115:2: missing ',' before newline in argument list
+
+2025-08-20 14:38:11[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/business/orchestrator/<standard input>:28:1: unexpected semicolon or newline before {
+
+2025-08-20 14:45:08[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:20:34: expected '(', found '{'
+/Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:21:2: expected ')', found 'return'
+/Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:22:1: expected ')', found '}'
+/Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:24:41: missing ',' in parameter list
+
+2025-08-20 14:45:33[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:21:9: expected operand, found '{'
+/Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:27:2: expected ';', found 'var'
+
+2025-08-20 14:45:41[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:21:9: expected operand, found '{'
+/Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:27:2: expected ';', found 'var'
+
+2025-08-20 15:51:59[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:21:9: expected operand, found '{'
+/Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:27:2: expected ';', found 'var'
+
+2025-08-20 23:27:37[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:21:9: expected operand, found '{'
+/Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:27:2: expected ';', found 'var'
+
+2025-08-20 23:33:46[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:21:9: expected operand, found '{'
+/Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:27:2: expected ';', found 'var'
+
+2025-08-21 11:47:08[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:21:9: expected operand, found '{'
+/Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/handlers/workflow/<standard input>:27:2: expected ';', found 'var'
+
+2025-08-21 15:39:59[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/cmd/list-tools/<standard input>:29:8: string literal not terminated
+
+2025-08-21 15:40:09[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/cmd/list-tools/<standard input>:29:8: string literal not terminated
+
+2025-09-01 16:42:40[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-support-contacts-hub-api/cmd/internal/cases/<standard input>:103:2: expected declaration, found errChan
+/Users/akoffler/projects/meli/fury_cx-support-contacts-hub-api/cmd/internal/cases/<standard input>:140:2: expected declaration, found 'if'
+/Users/akoffler/projects/meli/fury_cx-support-contacts-hub-api/cmd/internal/cases/<standard input>:223:2: expected declaration, found 'if'
+/Users/akoffler/projects/meli/fury_cx-support-contacts-hub-api/cmd/internal/cases/<standard input>:313:2: expected declaration, found 'if'
+/Users/akoffler/projects/meli/fury_cx-support-contacts-hub-api/cmd/internal/cases/<standard input>:382:2: expected declaration, found 'if'
+/Users/akoffler/projects/meli/fury_cx-support-contacts-hub-api/cmd/internal/cases/<standard input>:418:2: expected declaration, found maxRoutinesWorking
+
+2025-09-18 12:27:03[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/<standard input>:44:11: expected ';', found ':='
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/<standard input>:47:3: expected '}', found 'EOF'
+
+2025-09-18 14:57:38[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/tools/<standard input>:35:2: expected declaration, found CaseID
+
+2025-09-19 01:20:11[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:25:4: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:26:119: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:28:5: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:42:3: expected '}', found 'EOF'
+
+2025-09-21 15:46:17[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:45:2: expected declaration, found 'return'
+
+2025-09-21 16:24:28[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/logger/<standard input>:43:2: expected declaration, found Error
+
+2025-09-21 16:24:29[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/logger/<standard input>:41:2: expected declaration, found Error
+
+2025-09-21 16:31:56[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/logger/<standard input>:54:2: expected declaration, found 'return'
+
+2025-09-21 16:32:06[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/logger/<standard input>:54:2: expected declaration, found 'return'
+
+2025-09-21 16:32:17[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/logger/<standard input>:56:2: expected declaration, found 'return'
+
+2025-09-21 16:32:21[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/logger/<standard input>:56:2: expected declaration, found 'return'
+
+2025-09-22 02:02:23[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:84:46: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:85:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:86:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:90:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:91:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:92:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:94:36: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:95:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:96:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:100:3: missing ',' in argument list
+
+2025-09-22 02:02:28[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:84:46: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:85:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:86:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:90:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:91:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:92:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:94:36: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:95:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:96:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:100:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:101:66: missing ',' before newline in composite literal
+
+2025-09-22 02:02:30[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:84:46: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:85:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:86:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:90:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:91:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:92:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:94:36: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:95:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:96:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:100:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:101:3: expected operand, found 'return'
+
+2025-09-22 02:02:32[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:84:46: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:85:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:86:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:90:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:91:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:92:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:94:36: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:95:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:96:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:100:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:101:3: expected operand, found 'return'
+
+2025-09-22 02:02:53[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:84:46: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:85:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:86:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:90:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:91:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:92:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:94:36: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:95:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:96:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:100:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:101:3: expected operand, found 'return'
+
+2025-09-22 02:03:27[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:84:46: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:85:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:86:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:90:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:91:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:92:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:94:19: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:95:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:96:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:100:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:101:3: expected operand, found 'return'
+
+2025-09-22 02:03:30[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:84:46: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:85:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:86:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:90:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:91:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:92:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:94:19: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:95:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:96:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:100:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:101:3: expected operand, found 'return'
+
+2025-09-22 02:03:35[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:84:46: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:85:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:86:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:90:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:91:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:92:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:94:19: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:95:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:96:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:100:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:101:3: expected operand, found 'return'
+
+2025-09-22 02:04:11[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:82:46: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:83:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:84:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:88:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:89:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:90:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:92:19: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:93:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:94:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:98:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:99:3: expected operand, found 'return'
+
+2025-09-22 02:04:15[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:82:46: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:83:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:84:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:88:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:89:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:90:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:92:19: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:93:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:94:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:98:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:99:3: expected operand, found 'return'
+
+2025-09-22 02:11:09[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:90:46: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:91:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:92:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:96:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:97:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:98:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:100:19: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:101:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:102:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:106:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:107:3: expected operand, found 'return'
+
+2025-09-22 02:11:50[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:90:46: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:91:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:92:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:96:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:97:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:98:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:100:19: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:101:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:102:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:106:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/foundation/<standard input>:107:3: expected operand, found 'return'
+
+2025-09-25 15:14:06[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/<standard input>:33:12: expected ':', found newline
+
+2025-09-25 15:14:15[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/http/client/<standard input>:34:12: expected ':', found newline
+
+2025-10-17 15:07:08[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:18:71: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:20:13: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:22:4: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:25:5: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:26:5: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:30:4: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:31:59: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:32:5: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:33:4: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:36:4: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:37:119: missing ',' before newline in composite literal
+
+2025-10-17 15:07:34[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:18:71: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:20:13: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:22:4: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:25:5: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:26:5: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:30:4: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:31:59: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:32:5: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:33:4: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:36:4: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:37:119: missing ',' before newline in composite literal
+
+2025-10-17 15:13:06[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:23:44: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:25:13: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:27:4: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:30:5: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:31:5: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:35:4: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:36:59: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:37:5: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:38:4: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:41:4: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:42:119: missing ',' before newline in composite literal
+
+2025-10-17 15:13:10[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:22:44: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:24:13: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:26:4: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:29:5: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:30:5: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:34:4: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:35:59: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:36:5: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:37:4: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:40:4: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cx-contact-hub-mcp/internal/adapters/mcp/middleware/<standard input>:41:119: missing ',' before newline in composite literal
+
+2025-11-22 23:03:33[WARN] Formatter 'gofumpt' timeout
+2025-12-10 17:56:04[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:75:13: string literal not terminated
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:77:3: expected ';', found 'default'
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:140:37: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:166:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:167:7: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:168:10: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:169:87: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:170:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:171:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:174:11: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:175:2: expected operand, found 'if'
+
+2025-12-10 17:56:10[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:74:13: string literal not terminated
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:76:3: expected ';', found 'default'
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:139:37: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:165:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:166:7: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:167:10: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:168:87: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:169:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:170:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:173:11: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:174:2: expected operand, found 'if'
+
+2025-12-11 00:55:09[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:143:37: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:169:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:170:7: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:171:10: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:172:87: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:173:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:174:3: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:177:11: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:178:2: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:179:7: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:180:10: missing ',' in composite literal
+
+2025-12-16 17:43:37[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:97:15: expected operand, found ','
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:107:2: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:108:7: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:109:10: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:110:84: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:111:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:112:3: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:115:11: missing ',' in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:118:3: missing ',' before newline in composite literal
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:119:2: expected operand, found 'if'
+/Users/akoffler/projects/meli/fury_aa-contacts-resolver/cmd/api/service/verdi_task/<standard input>:120:7: missing ',' in composite literal
+
+2025-12-22 11:38:48[WARN] Formatter 'gofumpt' timeout
+2026-03-24 13:53:29[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/http/server/handlers/<standard input>:17:6: expected statement, found '='
+
+2026-03-30 11:08:40[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/domain/<standard input>:18:2: expected '}', found 'type'
+/Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/domain/<standard input>:19:1: expected declaration, found '}'
+
+2026-03-30 11:08:51[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/domain/<standard input>:18:2: expected '}', found 'type'
+/Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/domain/<standard input>:19:1: expected declaration, found '}'
+
+2026-03-31 13:38:25[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/domain/<standard input>:37:4: missing ',' before newline in composite literal
+
+2026-03-31 15:15:03[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/out/postgres/step/<standard input>:5:65: missing parameter name
+
+2026-03-31 15:36:40[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/out/postgres/step/<standard input>:5:65: missing parameter name
+
+2026-03-31 15:48:40[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/internal/adapters/out/postgres/step/<standard input>:5:65: missing parameter name
+
+2026-04-02 12:26:35[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_crm-workunit-workflow/cmd/api/<standard input>:40:35: missing ',' before newline in composite literal
+
+2026-05-03 14:53:49[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cross-crm-plat-workflow/internal/foundation/<standard input>:42:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cross-crm-plat-workflow/internal/foundation/<standard input>:45:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cross-crm-plat-workflow/internal/foundation/<standard input>:46:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cross-crm-plat-workflow/internal/foundation/<standard input>:49:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cross-crm-plat-workflow/internal/foundation/<standard input>:50:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cross-crm-plat-workflow/internal/foundation/<standard input>:51:1: expected operand, found '}'
+
+2026-05-03 14:54:48[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/fury_cross-crm-plat-workflow/internal/foundation/<standard input>:43:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cross-crm-plat-workflow/internal/foundation/<standard input>:46:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cross-crm-plat-workflow/internal/foundation/<standard input>:47:1: expected operand, found '}'
+/Users/akoffler/projects/meli/fury_cross-crm-plat-workflow/internal/foundation/<standard input>:50:2: missing ',' in argument list
+/Users/akoffler/projects/meli/fury_cross-crm-plat-workflow/internal/foundation/<standard input>:51:2: expected operand, found 'return'
+/Users/akoffler/projects/meli/fury_cross-crm-plat-workflow/internal/foundation/<standard input>:52:1: expected operand, found '}'
+
+2026-05-20 17:06:43[ERROR] Formatter 'goimports' error: /Users/akoffler/projects/meli/archived/fury_cx-support-contacts-hub-api/cmd/api/handlers/<standard input>:99:5: expected operand, found '...'
+/Users/akoffler/projects/meli/archived/fury_cx-support-contacts-hub-api/cmd/api/handlers/<standard input>:105:2: expected ';', found 'defer'
+/Users/akoffler/projects/meli/archived/fury_cx-support-contacts-hub-api/cmd/api/handlers/<standard input>:183:43: missing ',' in argument list
+/Users/akoffler/projects/meli/archived/fury_cx-support-contacts-hub-api/cmd/api/handlers/<standard input>:186:2: missing ',' in argument list
+/Users/akoffler/projects/meli/archived/fury_cx-support-contacts-hub-api/cmd/api/handlers/<standard input>:188:5: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/archived/fury_cx-support-contacts-hub-api/cmd/api/handlers/<standard input>:190:17: missing ',' in argument list
+/Users/akoffler/projects/meli/archived/fury_cx-support-contacts-hub-api/cmd/api/handlers/<standard input>:192:2: expected operand, found 'if'
+/Users/akoffler/projects/meli/archived/fury_cx-support-contacts-hub-api/cmd/api/handlers/<standard input>:193:11: missing ',' in argument list
+/Users/akoffler/projects/meli/archived/fury_cx-support-contacts-hub-api/cmd/api/handlers/<standard input>:194:25: missing ',' before newline in argument list
+/Users/akoffler/projects/meli/archived/fury_cx-support-contacts-hub-api/cmd/api/handlers/<standard input>:195:3: expected operand, found 'return'
+/Users/akoffler/projects/meli/archived/fury_cx-support-contacts-hub-api/cmd/api/handlers/<standard input>:196:2: expected operand, found '}'
+

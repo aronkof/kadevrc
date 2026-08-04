@@ -5,9 +5,6 @@ vim.api.nvim_create_user_command("WQ", "wq", {})
 vim.api.nvim_create_user_command("Qa", "qa", {})
 vim.api.nvim_create_user_command("QA", "qa", {})
 
-vim.api.nvim_create_user_command("Vimcfg", "edit ~/.config/nvim/init.lua", {})
-vim.api.nvim_create_user_command("Rvim", "source ~/.config/nvim/init.lua", {})
-
 vim.cmd("syntax on")
 vim.opt.ignorecase = true
 vim.opt.smartcase = true
@@ -47,6 +44,9 @@ vim.opt.wrapmargin = 50
 vim.opt.linebreak = false
 vim.opt.formatoptions:remove("t")
 vim.opt.shellcmdflag = "-c"
+
+-- markdown conceal sucks - this disables it
+vim.opt.conceallevel = 0
 
 -- Go settings
 vim.g.go_textobj_enabled = 0

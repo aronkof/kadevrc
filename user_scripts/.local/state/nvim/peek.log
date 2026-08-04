@@ -1,0 +1,40 @@
+INFO      73219    06/03/2026, 12:17:18.848  DENO_ENV: undefined --logfile=/Users/akoffler/.local/state/nvim/peek.log --theme=dark --app="webview" --syntax
+INFO      73219    06/03/2026, 12:17:18.865  deno: 2.7.4 v8: 14.6.202.6-rusty typescript: 5.9.2 
+INFO      73219    06/03/2026, 12:17:18.866  listening on localhost:60467 
+INFO      73219    06/03/2026, 12:19:54.197  webview closed, code: 0 
+INFO      25437    09/03/2026, 10:19:52.668  DENO_ENV: undefined --logfile=/Users/akoffler/.local/state/nvim/peek.log --theme=dark --app="webview" --syntax
+INFO      25437    09/03/2026, 10:19:52.680  deno: 2.7.4 v8: 14.6.202.6-rusty typescript: 5.9.2 
+INFO      25437    09/03/2026, 10:19:52.681  listening on localhost:62334 
+INFO      25437    10/03/2026, 13:45:28.376  webview closed, code: 0 
+INFO      79864    18/03/2026, 12:26:20.938  DENO_ENV: undefined --logfile=/Users/akoffler/.local/state/nvim/peek.log --theme=dark --app="webview" --syntax
+INFO      79864    18/03/2026, 12:26:20.956  deno: 2.7.4 v8: 14.6.202.6-rusty typescript: 5.9.2 
+INFO      79864    18/03/2026, 12:26:20.958  listening on localhost:50573 
+INFO      79864    19/03/2026, 10:40:03.939  webview closed, code: 0 
+INFO      2160     19/03/2026, 10:55:16.952  DENO_ENV: undefined --logfile=/Users/akoffler/.local/state/nvim/peek.log --theme=dark --app="webview" --syntax
+INFO      2160     19/03/2026, 10:55:16.964  deno: 2.7.4 v8: 14.6.202.6-rusty typescript: 5.9.2 
+INFO      2160     19/03/2026, 10:55:16.965  listening on localhost:62091 
+INFO      2160     19/03/2026, 10:57:42.242  webview closed, code: 0 
+INFO      22007    02/04/2026, 10:48:53.622  DENO_ENV: undefined --logfile=/Users/akoffler/.local/state/nvim/peek.log --theme=dark --app="webview" --syntax
+INFO      22007    02/04/2026, 10:48:53.638  deno: 2.7.4 v8: 14.6.202.6-rusty typescript: 5.9.2 
+INFO      22007    02/04/2026, 10:48:53.641  listening on localhost:63621 
+INFO      22007    02/04/2026, 10:55:39.362  webview closed, code: 0 
+INFO      25555    14/04/2026, 16:44:53.026  DENO_ENV: undefined --logfile=/Users/akoffler/.local/state/nvim/peek.log --theme=dark --app="webview" --syntax
+INFO      25555    14/04/2026, 16:44:53.043  deno: 2.7.4 v8: 14.6.202.6-rusty typescript: 5.9.2 
+INFO      25555    14/04/2026, 16:44:53.046  listening on localhost:52058 
+INFO      25555    14/04/2026, 16:53:50.259  webview closed, code: 0 
+INFO      86953    17/04/2026, 17:03:22.412  DENO_ENV: undefined --logfile=/Users/akoffler/.local/state/nvim/peek.log --theme=dark --app="webview" --syntax
+INFO      86953    17/04/2026, 17:03:22.430  deno: 2.7.4 v8: 14.6.202.6-rusty typescript: 5.9.2 
+INFO      86953    17/04/2026, 17:03:22.432  listening on localhost:54262 
+INFO      86953    17/04/2026, 17:03:26.374  webview closed, code: 0 
+INFO      50696    17/04/2026, 17:23:00.228  DENO_ENV: undefined --logfile=/Users/akoffler/.local/state/nvim/peek.log --theme=dark --app="webview" --syntax
+INFO      50696    17/04/2026, 17:23:00.242  deno: 2.7.4 v8: 14.6.202.6-rusty typescript: 5.9.2 
+INFO      50696    17/04/2026, 17:23:00.243  listening on localhost:54574 
+INFO      50696    17/04/2026, 17:32:47.610  SIGNAL: SIGTERM
+INFO      52075    15/05/2026, 15:50:11.894  DENO_ENV: undefined --logfile=/Users/akoffler/.local/state/nvim/peek.log --theme=dark --app="webview" --syntax
+INFO      52075    15/05/2026, 15:50:11.910  deno: 2.7.4 v8: 14.6.202.6-rusty typescript: 5.9.2 
+INFO      52075    15/05/2026, 15:50:11.913  listening on localhost:59757 
+INFO      52075    15/05/2026, 15:51:35.106  webview closed, code: 0 
+INFO      43330    28/05/2026, 11:41:19.829  DENO_ENV: undefined --logfile=/Users/akoffler/.local/state/nvim/peek.log --theme=dark --app="webview" --syntax
+INFO      43330    28/05/2026, 11:41:19.847  deno: 2.7.4 v8: 14.6.202.6-rusty typescript: 5.9.2 
+INFO      43330    28/05/2026, 11:41:19.850  listening on localhost:55059 
+INFO      43330    28/05/2026, 12:18:37.531  SIGNAL: SIGTERM

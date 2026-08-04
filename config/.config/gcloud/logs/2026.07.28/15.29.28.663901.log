@@ -1,0 +1,7 @@
+2026-07-28 15:29:28,666 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2026-07-28 15:29:28,667 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'virtualenv']
+2026-07-28 15:29:28,670 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'virtualenv', 'delete']
+2026-07-28 15:29:28,670 DEBUG    root            Running [gcloud.config.virtualenv.delete] with arguments: [--quiet: "True"]
+2026-07-28 15:29:28,882 DEBUG    root            Chosen display Format:default
+2026-07-28 15:29:28,883 INFO     root            Display format: "default"
+2026-07-28 15:29:28,895 DEBUG    root            On GCE from disk cache: False

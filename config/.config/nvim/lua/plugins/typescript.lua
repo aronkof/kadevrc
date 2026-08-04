@@ -1,7 +1,10 @@
 return {
   "neovim/nvim-lspconfig",
   opts = {
+    -- make sure mason installs the server
     servers = {
+      --- @deprecated -- tsserver renamed to ts_ls but not yet released, so keep this for now
+      --- the proper approach is to check the nvim-lspconfig release version when it's released to determine the server name dynamically
       tsserver = {
         enabled = false,
       },
@@ -50,7 +53,8 @@ return {
           {
             "gD",
             function()
-              local params = vim.lsp.util.make_position_params()
+              local win = vim.api.nvim_get_current_win()
+              local params = vim.lsp.util.make_position_params(win, "utf-16")
               LazyVim.lsp.execute({
                 command = "typescript.goToSourceDefinition",
                 arguments = { params.textDocument.uri, params.position },
@@ -93,7 +97,11 @@ return {
           {
             "<leader>cV",
             function()
-              LazyVim.lsp.execute({ command = "typescript.selectTypeScriptVersion" })
+              LazyVim.lsp.execute({
+                title = "Select TypeScript Version",
+                filter = "vtsls",
+                command = "typescript.selectTypeScriptVersion",
+              })
             end,
             desc = "Select TS workspace version",
           },
@@ -112,20 +120,20 @@ return {
         return true
       end,
       vtsls = function(_, opts)
-        LazyVim.lsp.on_attach(function(client, buffer)
+        Snacks.util.lsp.on({ name = "vtsls" }, function(buffer, client)
           client.commands["_typescript.moveToFileRefactoring"] = function(command, ctx)
             ---@type string, string, lsp.Range
             local action, uri, range = unpack(command.arguments)
 
             local function move(newf)
-              client.request("workspace/executeCommand", {
+              client:request("workspace/executeCommand", {
                 command = command.command,
                 arguments = { action, uri, range, newf },
               })
             end
 
             local fname = vim.uri_to_fname(uri)
-            client.request("workspace/executeCommand", {
+            client:request("workspace/executeCommand", {
               command = "typescript.tsserverRequest",
               arguments = {
                 "getMoveToRefactoringFileSuggestions",
@@ -161,11 +169,13 @@ return {
               end)
             end)
           end
-        end, "vtsls")
+        end)
         -- copy typescript settings to javascript
         opts.settings.javascript =
           vim.tbl_deep_extend("force", {}, opts.settings.typescript, opts.settings.javascript or {})
       end,
     },
-  },
+  }
 }
+
+
